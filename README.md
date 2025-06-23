@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer and AI Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vedika47/" target="_blank">
+  <a href="https://www.linkedin.com/in/vedika-wani-7968392ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://vedikawani-portfolio.vercel.app" target="_blank">
