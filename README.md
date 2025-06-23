@@ -41,9 +41,9 @@
 
 ### 🚀 Projects
 
-- [🧠 Digital Detox](https://github.com/vedika47/digitaldetox) – Kotlin-based Android app to reduce screen time and promote mindful usage
-- [📝 Online Examination System](https://github.com/vedika47/online-exam) – Django web app with webcam proctoring, Excel-based QnA, automated marking
-- [🚗 SharedGo](https://github.com/vedika47/sharedgo) – Flutter app with Blockchain-based ride-sharing to promote sustainability
+- [🧠 Digital Detox](https://github.com/vedika47/DigitalDetox) – Kotlin-based Android app to reduce screen time and promote mindful usage
+- [📝 Online Examination System](https://github.com/vedika47/online-examination-with-proctoring-using-django) – Django web app with webcam proctoring, Excel-based QnA, automated marking
+- [🚗 SharedGo](https://github.com/vedika47/Shared_goo) – Flutter app with Blockchain-based ride-sharing to promote sustainability
 
 ---
 
